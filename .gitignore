@@ -1,0 +1,10 @@
+abi/
+artifacts/
+cache/
+coverage/
+exports/
+node_modules/
+types/
+coverage.json
+.env
+.DS_Store
